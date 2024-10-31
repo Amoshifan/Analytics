@@ -17,7 +17,7 @@ Clone this repository to your local machine using:
 
 bash
 Copy code
-git clone https://github.com/Amoshifan/Superhero-U.git
+git clone https://github.com/Amoshifan/Analytics.git
 Navigate through the folders to find details on event structure, participant guidelines, and analytics.
 
 CONTRIBUTIONS
